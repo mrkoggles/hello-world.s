@@ -16,3 +16,8 @@ gcc -o hello-world hello-world.o -nostdlib -static
 chmod +x hello-world
 ./hello-world
 ```
+
+## Reference Material
+
+- [Linux Syscalls](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+- [Assembly Syntax](https://www.bencode.net/blob/nasmcheatsheet.pdf)
